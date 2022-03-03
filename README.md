@@ -9,15 +9,9 @@ This is an Anime site inspired by the Disney Plus streaming platform. I built it
 </p>
 
 ## Technologies Used
-- React
-- Redux
-- Styled Components
-- Firebase
-- Firebase store
-- Firebase auth
-- Firebase database
-- Firebase storage
+- Next JS
+- Sanity
+- Thirdweb
+- Alchemy API
 
-<p align="center">
-  <img src="./public/images/screenshot-2.jpg" />
-</p>
+
