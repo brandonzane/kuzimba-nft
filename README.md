@@ -2,7 +2,7 @@
 
 
 
-This is an Anime site inspired by the Disney Plus streaming platform. I built it using React, Redux, Firebase and Styled components.
+This is an NFT marketplace, built to host and sell NFTs on the ethereum network. With fully functioning purchasing capabilities.
 
 <p align="center">
   <img src="/assets/Kuzimba NFT.png" />
