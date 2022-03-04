@@ -13,5 +13,7 @@ This is an NFT marketplace, built to host and sell NFTs on the ethereum network.
 - Sanity
 - Thirdweb
 - Alchemy API
+- Ethereum Network
+- Rinkeby Testnet
 
 
